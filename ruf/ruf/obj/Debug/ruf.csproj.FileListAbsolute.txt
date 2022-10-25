@@ -1,0 +1,6 @@
+C:\Users\Moy\Documents\SharpDevelop Projects\ruf\ruf\bin\Debug\ruf.exe.config
+C:\Users\Moy\Documents\SharpDevelop Projects\ruf\ruf\bin\Debug\ruf.exe
+C:\Users\Moy\Documents\SharpDevelop Projects\ruf\ruf\bin\Debug\ruf.pdb
+C:\Users\Moy\Documents\SharpDevelop Projects\ruf\ruf\obj\Debug\ruf.csprojResolveAssemblyReference.cache
+C:\Users\Moy\Documents\SharpDevelop Projects\ruf\ruf\obj\Debug\ruf.exe
+C:\Users\Moy\Documents\SharpDevelop Projects\ruf\ruf\obj\Debug\ruf.pdb
